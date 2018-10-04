@@ -1,0 +1,13 @@
+name: SMP
+main: me.x_skeletor.smp.Core
+version: 1.0
+author: x_skeletor
+api-version: 1.13
+
+commands:
+  consumable:
+  forge:
+  msg:
+    aliases: [m, message, w, whisper, tell, t]
+  reply:
+    aliases: [r]
